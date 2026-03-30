@@ -65,7 +65,7 @@ Overall, this dashboard serves as a powerful decision-support tool, improving tr
 
 📧 dmhatre538@gmail.com
 
-🖼️ Dashboard Preview
+
 
 (Add dashboard screenshot here)
 
